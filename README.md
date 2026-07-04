@@ -17,7 +17,7 @@ The analysis is **observation-only**: no rows are removed, filtered, or correcte
 git clone https://github.com/MUQADAS-03/online-retail-eda-week1.git
 cd online-retail-eda-week1
 pip install -r requirements.txt
-jupyter notebook week1_eda.ipynb
+jupyter notebook week_1.ipynb
 ```
 
 ## Feature Engineering Steps
